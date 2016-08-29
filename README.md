@@ -16,7 +16,7 @@ If this will not be done, the information that the code needs to have is not yet
 
 #Download
 `Mediafire` http://www.mediafire.com/download/e9l9a9lb604ipvb/GamerNL_ReviewRedesign.crx<br>
-`Mega` https://mega.nz/#!cwl3RILQ!a_16Wh_kRhxIN-16QV82dIz1qGRi2vW33CvcNgI84o0
+`Mega` https://mega.nz/#!tt8BnKjC!qXFg1-ZkLE_I-AbfWDgglwAtoqOgRMG-4tT9AlLhM1E
 
 #How to install
 Go into `Google Chrome` => `Settings` => `Extentions`
